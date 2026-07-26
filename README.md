@@ -1,7 +1,5 @@
 ## Desktop application developer focused on finance, trading, technical analysis, exchange API integrations, and Portfolio Management.
 
----
-
 ## My Direction
 
 - Building **standalone desktop applications with dedicated GUI** -- always native, never web wrappers.
