@@ -1,13 +1,11 @@
-Linux desktop application developer focused on finance, trading, technical analysis, and exchange API integrations.
+## Linux desktop application developer focused on finance, trading, technical analysis, exchange API integrations, and Portfolio Management.
 
 ---
 
 ## My Direction
 
 - Building **standalone desktop applications with dedicated GUI** -- always native, never web wrappers.
-- Focus areas: **finance, trading, technical analysis, exchange API integrations**.
 - Primary languages: **Python** and **Rust**.
-- UI built exclusively with **dedicated GUI frameworks** (PySide6, Iced, etc.).
 - Working with **SQLite** databases.
 - **Linux-only** development environment and target platform.
 - Main codebases are **proprietary**, but I gradually release **open-source** projects.
