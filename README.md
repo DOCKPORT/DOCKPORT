@@ -1,11 +1,11 @@
-## Desktop application developer focused on finance, trading, technical analysis, exchange API integrations, and Portfolio Management.
+## Developer focused on finance, technical analysis, exchange API integration, and Portfolio Management.
 
 ## My Direction
 
-- Building **standalone desktop applications with dedicated GUI** -- always native, never web wrappers.
+- Building **standalone desktop applications with dedicated GUI**. 
 - Primary languages: **Python** and **Rust**.
-- Working with **SQLite** databases.
-- **Linux-only** development environment and target platform.
+- **SQLite** database development.
+- **Linux-only** environment and target platform.
 - Main codebases are **proprietary**, but I gradually release **open-source** projects.
 - Sometimes build **webapps for fun**.
 
