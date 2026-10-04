@@ -12,7 +12,7 @@
 
 ## Tech-Stack
 
-| Category | Stack |
+|  |  |
 |---|---|
 | **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | **GUI** | ![PySide6](https://img.shields.io/badge/-PySide6-41CD52?style=flat-square&logo=qt&logoColor=white) ![Iced](https://img.shields.io/badge/-Iced-FF6F00?style=flat-square&logo=rust&logoColor=white) |
