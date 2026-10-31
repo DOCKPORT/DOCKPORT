@@ -22,6 +22,10 @@
     <td valign="middle"><img src="https://img.shields.io/badge/-PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PySide6"> <img src="https://img.shields.io/badge/-Iced-FF6F00?style=flat-square&logo=rust&logoColor=white" alt="Iced"></td>
   </tr>
   <tr>
+    <td valign="middle"><strong>TUI</strong></td>
+    <td valign="middle"><img src="https://img.shields.io/badge/-Ratatui-000000?style=flat-square&logo=ratatui&logoColor=white" alt="Ratatui"></td>
+  </tr>
+  <tr>
     <td valign="middle"><strong>Databases</strong></td>
     <td valign="middle"><img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"></td>
   </tr>
